@@ -14,7 +14,7 @@ BOOTHショップ「霧雨工房」もご覧ください。多数のアイテム
 
 現在開発中です。Twitter (X)にて最新情報をチェックしてね！
 
-![]([image_PenLight.jpg](https://github.com/Kirisame-Nanoha/KIRISAMEKOBO/blob/main/penlight_24color_chart_colors_only.png))
+![](image_Penlight.png)
 
 ### IllumiTrack 無線ハンドトラッキングデバイス
 
