@@ -66,7 +66,7 @@ NanoFaceは、顔の正面に固定して設置できるフェイストラッキ
 
 - ユーザーは、本規約に同意しなければ本システムを利用することはできません。ユーザーは、本アプリをインストールまたは利用開始することによって、本規約に有効かつ取消不能な同意をしたものとみなされます。
 - 本システムはYouTube APIサービスを利用しています。ユーザーは、本規約に加えて、YouTube利用規約にも同意する必要があります。  
-  https://www.youtube.com/t/terms
+  [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms)
 
 ### 第3条（サービスの利用条件）
 
@@ -138,7 +138,7 @@ NanoFaceは、顔の正面に固定して設置できるフェイストラッキ
 したがって、ユーザーは本ポリシーに加えて、Google 社のプライバシーポリシーその他関連規約が適用される場合があることに同意するものとします。
 
 Google プライバシーポリシー：  
-https://policies.google.com/privacy
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ### 第3条（取得する情報および利用目的）
 
@@ -204,7 +204,7 @@ YouTube API その他外部サービスとの通信は、原則として SSL/TLS
 ユーザーは、Googleセキュリティ設定ページから、いつでもAPIアクセス許可を取り消すことができます。  
 アクセス許可を取り消すと、本システムは利用できなくなります。  
 
-https://security.google.com/settings/security/permissions
+[https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions)
 
 ### 第7条（ユーザーによる情報の削除）
 
@@ -228,16 +228,16 @@ kirisame.tech@gmail.com
 ## 参考リンク（必読）
 
 - API Services Terms of Service (APAC)  
-  https://developers.google.com/youtube/terms/api-services-terms-of-service-apac?hl=ja
+  [https://developers.google.com/youtube/terms/api-services-terms-of-service-apac?hl=ja](https://developers.google.com/youtube/terms/api-services-terms-of-service-apac?hl=ja)
 
 - Developer Policies  
-  https://developers.google.com/youtube/terms/developer-policies?hl=ja
+  [https://developers.google.com/youtube/terms/developer-policies?hl=ja](https://developers.google.com/youtube/terms/developer-policies?hl=ja)
 
 - Required Minimum Functionality  
-  https://developers.google.com/youtube/terms/required-minimum-functionality?hl=ja
+  [https://developers.google.com/youtube/terms/required-minimum-functionality?hl=ja](https://developers.google.com/youtube/terms/required-minimum-functionality?hl=ja)
 
 - Branding Guidelines  
-  https://developers.google.com/youtube/terms/branding-guidelines?hl=ja
+  [https://developers.google.com/youtube/terms/branding-guidelines?hl=ja](https://developers.google.com/youtube/terms/branding-guidelines?hl=ja)
 
 - 霧雨工房公式ページ  
-  https://kirisame-nanoha.github.io/KIRISAMEKOBO/
+  [https://kirisame-nanoha.github.io/KIRISAMEKOBO/](https://kirisame-nanoha.github.io/KIRISAMEKOBO/)
