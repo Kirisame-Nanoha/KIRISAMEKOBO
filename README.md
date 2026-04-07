@@ -121,6 +121,6 @@ NanoFaceは、顔の正面に固定して設置できるフェイストラッキ
 
 ---
 
-## 「振って応援ペンライト めっせんじゃぁ」プライバシーポリシーはこちら
+## 関連リンク
 
-[https://kirisame-nanoha.github.io/KIRISAMEKOBO/privacy](https://kirisame-nanoha.github.io/KIRISAMEKOBO/privacy)
+[プライバシーポリシー](https://kirisame-nanoha.github.io/KIRISAMEKOBO/privacy)
