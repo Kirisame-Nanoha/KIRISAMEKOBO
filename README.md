@@ -123,4 +123,4 @@ NanoFaceは、顔の正面に固定して設置できるフェイストラッキ
 
 ## 関連リンク
 
-[プライバシーポリシー](https://kirisame-nanoha.github.io/KIRISAMEKOBO/privacy)
+[プライバシーポリシー](https://www.kirisamekobo.com/privacy)
