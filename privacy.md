@@ -1,6 +1,3 @@
-# 関連リンク
-
-- [振って応援ペンライト めっせんじゃぁ 利用規約](https://kirisamekobo.com/terms)
 
 ## 「振って応援ペンライト めっせんじゃぁ」プライバシーポリシー
 
@@ -118,6 +115,10 @@ kirisame.tech@gmail.com
   [https://developers.google.com/youtube/terms/required-minimum-functionality?hl=ja](https://developers.google.com/youtube/terms/required-minimum-functionality?hl=ja)
 
 - Branding Guidelines  
+
+## 関連リンク
+
+- [振って応援ペンライト めっせんじゃぁ 利用規約](https://kirisamekobo.com/terms)
   [https://developers.google.com/youtube/terms/branding-guidelines?hl=ja](https://developers.google.com/youtube/terms/branding-guidelines?hl=ja)
 
 - 霧雨工房公式ページ  
