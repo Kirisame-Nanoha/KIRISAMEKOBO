@@ -1,9 +1,5 @@
 <a name="terms-of-service"></a>
 
-## 関連リンク
-
-- [プライバシーポリシー](https://kirisamekobo.com/privacy)
-
 ## 「振って応援ペンライト めっせんじゃぁ」利用規約
 
 **最終更新日：2025年8月23日**
@@ -73,3 +69,10 @@
 
 本規約の準拠法は日本法とします。  
 本規約に起因し、または関連する一切の紛争については、福島地方裁判所 郡山支部を第一審の専属的合意管轄裁判所とします。
+
+## 関連リンク
+
+- [プライバシーポリシー](https://kirisamekobo.com/privacy)
+
+- 霧雨工房公式ページ  
+  [https://kirisame-nanoha.github.io/KIRISAMEKOBO/](https://kirisame-nanoha.github.io/KIRISAMEKOBO/)
