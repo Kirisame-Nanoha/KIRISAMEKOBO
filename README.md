@@ -13,7 +13,7 @@ BOOTHショップ「霧雨工房」もご覧ください。多数のアイテム
 # 各種ポリシー
 ご利用前に必ずお読みください。
 
-- 振って応援ペンライト めっせんじゃぁ 利用規約 [https://kirisamekobo.com/terms](https://kirisamekobo.com/terms)
+- 利用規約 [https://kirisamekobo.com/terms](https://kirisamekobo.com/terms)
 - プライバシーポリシー [https://kirisamekobo.com/privacy](https://kirisamekobo.com/privacy)
 
 「振って応援ペンライト」「振って応援ペンライト めっせんじゃぁ」は、ライブ配信で推しを応援したい VTuber / YouTuber ファンに向けた、専用ハードウェア連携システムです。  
