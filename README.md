@@ -10,6 +10,12 @@ BOOTHショップ「霧雨工房」もご覧ください。多数のアイテム
 
 # 振って応援ペンライト めっせんじゃぁ について
 
+# 各種ポリシー
+ご利用前に必ずお読みください。
+
+- 振って応援ペンライト めっせんじゃぁ 利用規約 [https://kirisamekobo.com/terms](https://kirisamekobo.com/terms)
+- プライバシーポリシー [https://kirisamekobo.com/privacy](https://kirisamekobo.com/privacy)
+
 「振って応援ペンライト」「振って応援ペンライト めっせんじゃぁ」は、ライブ配信で推しを応援したい VTuber / YouTuber ファンに向けた、専用ハードウェア連携システムです。  
 現実のライブ会場でペンライトを振るように、YouTube ライブ配信でも、専用ペンライトを振る操作によって応援用チャットを送信できます。
 
@@ -87,7 +93,3 @@ NanoFaceは、顔の正面に固定して設置できるフェイストラッキ
 - Mail:kirisame.tech@gmail.com
 ---
 
-# 各種ポリシー
-
-- [振って応援ペンライト めっせんじゃぁ 利用規約](https://kirisamekobo.com/terms)
-- [プライバシーポリシー](https://kirisamekobo.com/privacy)
