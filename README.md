@@ -91,5 +91,6 @@ NanoFaceは、顔の正面に固定して設置できるフェイストラッキ
 - BOOTH: [BOOTH 霧雨工房](https://kirisamenanoha.booth.pm/) ※購入したアカウントからメッセージをお送りください
 - Twitter (X): [霧雨工房 公式アカウント](https://x.com/KirisameKOBO)
 - Mail代表者氏名 二瓶真也:kirisame.tech@gmail.com
+- 適格請求書発行事業者 登録番号 T2810874854205
 ---
 
